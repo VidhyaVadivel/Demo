@@ -8,6 +8,10 @@
   <packaging>pom</packaging>
   <name>MavenParentProject</name>
   <description>MavenParentProject</description>
+  <modules>
+    <module>Sample-ESB</module>
+    <module>Sample-CAR</module>
+  </modules>
   <build>
     <plugins>
       <plugin>
